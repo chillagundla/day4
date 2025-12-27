@@ -1,0 +1,5 @@
+mplementing CI/CD operations.
+Automating the Infrastructure.
+Collaborating with different teams mainly SDE teams and IT operations teams.
+Managing the availability and performance of the Software applications.
+Troubleshooting and resolving the issues of the organization.
